@@ -1,0 +1,4 @@
+echo "#Meesho Fashion.">>README.md
+git init
+git add README.md
+git commit -n "First commit"
